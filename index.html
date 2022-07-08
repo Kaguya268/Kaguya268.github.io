@@ -15,56 +15,14 @@
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
-
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/disk.css">
 
   <meta name="theme-color" content="#fafafa">
 </head>
 
-<body>
-<a href="index2.html">GebruikersInterfaces</a>
-<!-- Add your site or application content here -->
-
-
-<div id="143" style="position:fixed;width: 100%; text-align: center;">
-  <label for="cars">Choose a Pattern:</label>
-
-  <select id="cars" onchange="change()">
-    <option value="Abstract Factory">Abstract Factory</option>
-    <option value="Adapter" selected>Adapter</option>
-    <option value="Bridge">Bridge</option>
-    <option value="Builder">Builder</option>
-    <option value="Chain">Chain of responsability</option>
-    <option value="command">Command</option>
-    <option value="Composite">Composite</option>
-    <option value="Decorator">Decorator</option>
-    <option value="Facade">Facade</option>
-    <option value="FactoryMethod">FactoryMethod</option>
-    <option value="Flyweight">Flyweight</option>
-    <option value="Interpreter">Interpreter</option>
-    <option value="Iterator">Iterator</option>
-    <option value="Mediator">Mediator</option>
-    <option value="Memento">Memento</option>
-    <option value="Observer">Observer</option>
-    <option value="Prototype">Prototype</option>
-    <option value="Proxy">Proxy</option>
-    <option value="SimpleFactory">Simplefactory</option>
-    <option value="Singleton">Singleton</option>
-    <option value="State">State</option>
-    <option value="STRATEGY">Strategy</option>
-    <option value="Template method">Template</option>
-    <option value="Visitor">Visitor</option>
-  </select></div>
-
-<div style="position:fixed; height: 100%; width: 100%; top:50px; text-align: center;">
-  <img id="100" src="img/img2/Adapter.png" style="width: 40%"/>
-</div>
-<script src="js/vendor/modernizr-3.11.2.min.js"></script>
-<script src="js/plugins.js"></script>
-<script src="js/main.js"></script>
-
-
+<body onload="startup()">
+    <div id="100"></div>
+    <script src="js/disk.js"></script>
 </body>
 
 </html>

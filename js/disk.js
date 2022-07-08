@@ -1,6 +1,6 @@
 function startup(){
     let imageaccess = document.getElementById("100");
-    number = 3;
+    number = 116;
     for(i = 1;i<=number;i++){
         let div0 = document.createElement('div');
         let img1 = document.createElement('img');

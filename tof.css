@@ -1,0 +1,67 @@
+/* body{
+    background-image: url("img/Claudiabanner.PNG");
+} */
+
+p{
+    height:50px;
+    width: 300px;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.test{
+    height:200px;
+    width:200px;
+    position: absolute;
+    left: 75%;
+    bottom: 6%;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.test2{
+    height:200px;
+    width:200px;
+    position: absolute;
+    left: 84%;
+    bottom: 19%;
+    background: transparent;
+    border: none !important;
+    font-size:0;
+}
+
+.test3{
+    height:50px;
+    width:200px;
+    position: absolute;
+    left: 44%;
+    bottom: 3%;
+}
+
+.cost{
+    position: absolute;
+    left: 2%;
+    bottom: 30%;
+}
+
+.ssr{
+    position: absolute;
+    left: 2%;
+    bottom: 22%;
+}
+
+.div2{
+    position: absolute;
+    z-index: 15;
+    top: 20%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
+}  
+.div3{
+    position: absolute;
+    z-index: 15;
+    top: 15%;
+    left: 15%;
+    margin: -100px 0 0 -150px;
+}  

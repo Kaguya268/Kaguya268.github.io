@@ -12,17 +12,30 @@
   <meta property="og:url" content="">
   <meta property="og:image" content="">
 
-  <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
-  <link rel="stylesheet" href="css/disk.css">
+
+  <link rel="stylesheet" href="tof.css">
 
   <meta name="theme-color" content="#fafafa">
 </head>
 
-<body onload="startup()">
-    <div id="100"></div>
-    <script src="js/disk.js"></script>
+<body style="background-image: url('img1/Claudiabanner.PNG');">
+    <div id="base">
+    
+    <!-- <img src="img/ssr.PNG">
+    <img src="img/SR.PNG"> -->
+    <div><p class="cost" id="cost">cost: </p></div>
+    <div><p class="ssr" id="SSR">SSR's: </p></div>
+    <button class="test" onclick="calc_rol()">10pull</button>
+    <button class="test2" onclick="calc_rol1()">single</button>
+    </div>
+    <div id="content1" class="div2"></div>
+    <div id="content2" class="div3"></div>
+    <button id="test3" class="test3"  onclick="retu()">back</button>
+    
+  <script src="tof.js" defer></script>
+
 </body>
 
 </html>

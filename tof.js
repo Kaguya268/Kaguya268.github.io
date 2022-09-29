@@ -5,21 +5,45 @@ cost = 0;
 document.getElementById("test3").style.display = "none";
 var res = [];
 
+
+
 function calc_rol(){
     base = document.getElementById("base");
     base.style.display = 'none';
-    document.body.style.background = "url('img1/pullscreen.jpg')";
+    document.body.style.backgroundImage = "url('img1/pullscreen.jpg')";
+    // document.body.setAttribute("class","bg1");
     document.getElementById("test3").style.display = "block";
     cst = document.getElementById("cost");
     ssr = document.getElementById("SSR");
     res = tenpull();
-    img = document.createElement("img");
     dv = document.getElementById("content2");
+    let lst = [];
+
+    let widthpx = screen.width/2.5;
+
     for(i=0;i<10;i++){
         img = document.createElement("img");
         img.src = "img1/" + res[i];
-        dv.appendChild(img);
+        img.setAttribute("height",widthpx);
+        lst.push(img);
     }
+    // for(const l of lst){
+    //     setTimeout(function(){
+    //         console.log(l);
+    //         dv.appendChild(l)   
+    //     },"1000" )
+        
+    // }
+    let delay = 100;
+for (const l of lst) {
+    setTimeout(() => {
+        dv.appendChild(l);
+    }, delay);
+    delay += 100
+}
+
+
+
     cst.innerHTML = "cost: " + cost + " ~ " + Math.round(100*cost/7780) + ' €';
     ssr.innerHTML = "SSR's: " + amt;
 }
@@ -27,25 +51,26 @@ function calc_rol(){
 function calc_rol1(){
     base = document.getElementById("base");
     base.style.display = 'none';
-    document.body.style.background = "url('img1/pullscreen.jpg')"
+    document.body.style.backgroundImage = "url('img1/pullscreen.jpg')";
     document.getElementById("test3").style.display = "block";
-
+    // document.body.setAttribute("class","bg1");
     cst = document.getElementById("cost");
     ssr = document.getElementById("SSR");
     img = document.createElement("img");
     img.src = "img1/" + singleroll();
     document.getElementById("content1").appendChild(img);
-    cst.innerHTML = "cost: " + cost;
+    cst.innerHTML = "cost: " + cost + " ~ " + Math.round(100*cost/7780) + ' €';
     ssr.innerHTML = "SSR's :" + amt;
 
 }
 
 function retu(){
     document.getElementById("test3").style.display = "none";
-    document.body.style.background = "url('img1/Claudiabanner.PNG')"
+    document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')"
     base = document.getElementById("base").style.display = 'block';
     document.getElementById("content1").innerHTML = '';
     document.getElementById("content2").innerHTML = '';
+    document.body.setAttribute("class","bg");
 }
 
 function singleroll(){

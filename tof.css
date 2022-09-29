@@ -62,6 +62,21 @@ body, html {
     bottom: 3%;
 }
 
+.test4{
+    height:150px;
+    width:150px;
+    position: absolute;
+    left: 80%;
+    bottom: 3%;
+}
+.test5{
+    height:150px;
+    width:150px;
+    position: absolute;
+    left: calc(80% - 152px);
+    bottom: 3%;
+}
+
 .cost{
     position: absolute;
     left: 2%;

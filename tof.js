@@ -3,16 +3,23 @@ var srrolls = 0;
 amt = 0;
 cost = 0;
 document.getElementById("test3").style.display = "none";
+document.getElementById("test4").style.display = "none";
+document.getElementById("test5").style.display = "none";
 var res = [];
 
 
 
 function calc_rol(){
+    document.getElementById("content1").innerHTML = '';
+    document.getElementById("content2").innerHTML = '';
+    document.getElementById("test3").style.display = "none";
+    document.getElementById("test4").style.display = "none";
+    document.getElementById("test5").style.display = "none";
     base = document.getElementById("base");
     base.style.display = 'none';
     document.body.style.backgroundImage = "url('img1/pullscreen.jpg')";
     // document.body.setAttribute("class","bg1");
-    document.getElementById("test3").style.display = "block";
+    
     cst = document.getElementById("cost");
     ssr = document.getElementById("SSR");
     res = tenpull();
@@ -35,12 +42,19 @@ function calc_rol(){
         
     // }
     let delay = 100;
-for (const l of lst) {
+    for (const l of lst) {
+        setTimeout(() => {
+            dv.appendChild(l);
+        }, delay);
+        delay += 100
+    }
     setTimeout(() => {
-        dv.appendChild(l);
-    }, delay);
-    delay += 100
-}
+        document.getElementById("test3").style.display = "block";
+        document.getElementById("test4").style.display = "block";
+        document.getElementById("test5").style.display = "block";
+    }, 1200);
+
+    
 
 
 
@@ -49,6 +63,11 @@ for (const l of lst) {
 }
 
 function calc_rol1(){
+    document.getElementById("test3").style.display = "none";
+    document.getElementById("test4").style.display = "none";
+    document.getElementById("test5").style.display = "none";
+    document.getElementById("content1").innerHTML = '';
+    document.getElementById("content2").innerHTML = '';
     base = document.getElementById("base");
     base.style.display = 'none';
     document.body.style.backgroundImage = "url('img1/pullscreen.jpg')";
@@ -62,10 +81,18 @@ function calc_rol1(){
     cst.innerHTML = "cost: " + cost + " ~ " + Math.round(100*cost/7780) + ' €';
     ssr.innerHTML = "SSR's :" + amt;
 
+    setTimeout(() => {
+        document.getElementById("test3").style.display = "block";
+        document.getElementById("test4").style.display = "block";
+        document.getElementById("test5").style.display = "block";
+    }, 50);
+
 }
 
 function retu(){
     document.getElementById("test3").style.display = "none";
+    document.getElementById("test4").style.display = "none";
+    document.getElementById("test5").style.display = "none";
     document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')"
     base = document.getElementById("base").style.display = 'block';
     document.getElementById("content1").innerHTML = '';

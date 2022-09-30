@@ -6,6 +6,33 @@ document.getElementById("test3").style.display = "none";
 document.getElementById("test4").style.display = "none";
 document.getElementById("test5").style.display = "none";
 var res = [];
+var chosenbanner = "ssr9.PNG"
+var ch = "url('img1/Claudiabanner.PNG')"
+
+document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')";
+
+const banner = document.getElementById("banner");
+banner.addEventListener('change',(event) => {
+    change_banner(event.target.value);
+})
+
+function change_banner(nom){
+    if (nom == "Frigg"){
+    document.body.style.backgroundImage = "url(img1/frigg.png)";
+    ch = "url('img1/frigg.png')"
+    chosenbanner = "ssr11.PNG"
+    }
+    else if (nom == "Nemesis"){
+        document.body.style.backgroundImage = "url('img1/nemesis.png')";
+        ch = "url('img1/nemesis.png')"
+        chosenbanner = "ssr10.PNG"
+    }
+    else if (nom == "Claudia"){
+        document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')";
+        ch = "url('img1/Claudiabanner.PNG')"
+        chosenbanner = "ssr9.PNG"
+    }
+}
 
 
 
@@ -26,7 +53,7 @@ function calc_rol(){
     dv = document.getElementById("content2");
     let lst = [];
 
-    let widthpx = screen.width/2.5;
+    let widthpx = screen.width/2.6;
 
     for(i=0;i<10;i++){
         img = document.createElement("img");
@@ -93,7 +120,7 @@ function retu(){
     document.getElementById("test3").style.display = "none";
     document.getElementById("test4").style.display = "none";
     document.getElementById("test5").style.display = "none";
-    document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')"
+    document.body.style.backgroundImage = ch;
     base = document.getElementById("base").style.display = 'block';
     document.getElementById("content1").innerHTML = '';
     document.getElementById("content2").innerHTML = '';
@@ -135,7 +162,7 @@ function singleroll(){
     else {
         amt += 1;
         j = Math.floor(Math.random() * 15)
-        if (j>8) return "ssr9.PNG";
+        if (j>8) return chosenbanner;
         return "ssr" + Math.floor(Math.random() * 9) + ".PNG";
     }
     

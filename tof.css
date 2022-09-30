@@ -13,7 +13,7 @@ body, html {
     height: 100%;
     width: 100%;
 
-    background-image: url("img1/Claudiabanner.PNG");
+    /* background-image: url("img1/Claudiabanner.PNG"); */
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100% auto;
@@ -63,17 +63,17 @@ body, html {
 }
 
 .test4{
-    height:150px;
-    width:150px;
+    height:100px;
+    width:100px;
     position: absolute;
     left: 80%;
     bottom: 3%;
 }
 .test5{
-    height:150px;
-    width:150px;
+    height:100px;
+    width:100px;
     position: absolute;
-    left: calc(80% - 152px);
+    left: calc(80% - 102px);
     bottom: 3%;
 }
 

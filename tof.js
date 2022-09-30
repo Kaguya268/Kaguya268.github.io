@@ -146,7 +146,7 @@ function singleroll(){
     }
     else {
         amt += 1;
-        return "ssr" + Math.floor(Math.random() * 10) + ".PNG";
+        return "ssr" + Math.floor(Math.random() * 9) + ".PNG";
     }
     }
     else if (rolls%80 != 0 && srrolls%10 == 0){
@@ -156,7 +156,7 @@ function singleroll(){
         }
         else {
             amt += 1;
-            return "ssr" + Math.floor(Math.random() * 10) + ".PNG";
+            return "ssr" + Math.floor(Math.random() * 9) + ".PNG";
         }
     }
     else {

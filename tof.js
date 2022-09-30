@@ -6,7 +6,7 @@ document.getElementById("test3").style.display = "none";
 document.getElementById("test4").style.display = "none";
 document.getElementById("test5").style.display = "none";
 var res = [];
-var chosenbanner = "ssr9.PNG"
+var chosenbanner = "claudia.PNG"
 var ch = "url('img1/Claudiabanner.PNG')"
 
 document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')";
@@ -30,7 +30,7 @@ function change_banner(nom){
     else if (nom == "Claudia"){
         document.body.style.backgroundImage = "url('img1/Claudiabanner.PNG')";
         ch = "url('img1/Claudiabanner.PNG')"
-        chosenbanner = "ssr9.PNG"
+        chosenbanner = "claudia.PNG"
     }
 }
 

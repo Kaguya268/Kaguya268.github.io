@@ -104,6 +104,8 @@ function calc_rol1(){
     ssr = document.getElementById("SSR");
     img = document.createElement("img");
     img.src = "img1/" + singleroll();
+    let widthpx = screen.width/2.6;
+    img.setAttribute("height",widthpx);
     document.getElementById("content1").appendChild(img);
     cst.innerHTML = "cost: " + cost + " ~ " + Math.round(100*cost/7780) + ' €';
     ssr.innerHTML = "SSR's :" + amt;

@@ -32,6 +32,26 @@ function change_banner(nom){
         ch = "url('img1/Claudiabanner.PNG')"
         chosenbanner = "claudia.PNG"
     }
+    else if (nom == "Cobalt-B"){
+        document.body.style.backgroundImage = "url('img1/cobaltbanner.png')";
+        ch = "url('img1/cobaltbanner.png')"
+        chosenbanner = "notfound.png"
+    }
+    else if (nom == "Ruby"){
+        document.body.style.backgroundImage = "url('img1/ruby.png')";
+        ch = "url('img1/ruby.png')"
+        chosenbanner = "notfound.png"
+    }
+    else if (nom == "Saki"){
+        document.body.style.backgroundImage = "url('img1/saki.png')";
+        ch = "url('img1/saki.png')"
+        chosenbanner = "notfound.png"
+    }
+    else if (nom == "Lin"){
+        document.body.style.backgroundImage = "url('img1/lin.PNG')";
+        ch = "url('img1/lin.PNG')"
+        chosenbanner = "linpull.png"
+    }
 }
 
 

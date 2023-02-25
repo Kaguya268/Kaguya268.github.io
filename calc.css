@@ -1,0 +1,20 @@
+div {
+    padding-top: 15px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+    padding-left: 5px;
+    display: inline-block;
+  }
+
+html {
+    background-image: url(calc.webp);
+}
+
+label {
+    color: white;
+    font-size: large;
+}
+
+a {
+    color: lightblue;
+}

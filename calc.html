@@ -1,0 +1,64 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+  <link rel="stylesheet" href="calc.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+    <header>
+    <nav id="nav-bar">
+        <a href="index.html">Pull sim</a>
+    </header>
+    
+    <div id="100">
+
+            <label for="plevel">Player level</label><br>
+            <input type="number" id="plevel"><br>
+            <br>
+            <div id="odiv">
+                <label for="oldcrit">crit 1</label><br>
+                <input type="number" id="oldcrit"><br>
+                <label for="oldFlat">attack 1</label><br>
+                <input type="number" id="oldFlat"><br>
+                <label for="oldcr">crit% 1</label><br>
+                <input type="number" id="oldcr" placeholder="0.00">
+            </div>
+            <br>
+            <br>
+            <div id="ndiv" >
+                <label for="newcrit">crit 2</label><br>
+                <input type="number" id="newcrit"><br>
+                <label for="newFlat">attack 2</label><br>
+                <input type="number" id="newFlat"><br>
+                <label for="newcr">crit% 2</label><br>
+                <input type="number" id="newcr" placeholder="0.00">
+            </div>
+            <br>
+            <br>
+            <button onclick="validate()">Submit</button>
+
+            <h4 id="old"></h4>
+            <h4 id="oldf"></h4><br>
+            <h4 id="new"></h4>
+            <h4 id="newf"></h4>
+    </div>
+    <script src="crit.js"></script>
+</body>
+
+</html>

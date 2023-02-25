@@ -2,6 +2,10 @@
     background-image: url("img/Claudiabanner.PNG");
 } */
 
+a{
+    color: lightblue;
+}
+
 p{
     height:50px;
     width: 300px;

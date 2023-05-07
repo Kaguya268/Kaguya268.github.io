@@ -1,0 +1,104 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59.5 b201bb38",
+  "osm3s": {
+    "timestamp_osm_base": "2023-04-14T12:36:46Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1628067380,
+      "lat": 51.0548479,
+      "lon": 3.7246687,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "The out"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3028562276,
+      "lat": 51.0594106,
+      "lon": 3.7235499,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "40",
+        "addr:postcode": "9000",
+        "addr:street": "Drongenhof",
+        "amenity": "nightclub",
+        "name": "White Cat"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5216234638,
+      "lat": 51.0565088,
+      "lon": 3.720362,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Oude Vismijn Feestzalen"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5249332222,
+      "lat": 51.0551416,
+      "lon": 3.7234272,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Club Central"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6603901032,
+      "lat": 51.033944,
+      "lon": 3.7579115,
+      "tags": {
+        "amenity": "nightclub",
+        "image": "https://images.mapillary.com/gxOjPZlvJjhq3DQEQK7rIN/thumb-2048.jpg",
+        "mapillary": "956912685112113",
+        "name": "Hells Angels Mc Ghent",
+        "website": "https://www.hellsangels.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7771946487,
+      "lat": 51.0543718,
+      "lon": 3.7311722,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Club 69",
+        "website": "http://www.club-69.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10049929027,
+      "lat": 51.0681065,
+      "lon": 3.7226294,
+      "tags": {
+        "amenity": "nightclub",
+        "name": "Kompass Klub"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10090143692,
+      "lat": 51.0535162,
+      "lon": 3.721504,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Schuurkenstraat",
+        "amenity": "nightclub",
+        "level": "-1",
+        "name": "A.M. Club",
+        "reservation": "required",
+        "website": "https://www.amclub.be/",
+        "wheelchair": "no"
+      }
+    }
+  ]
+}

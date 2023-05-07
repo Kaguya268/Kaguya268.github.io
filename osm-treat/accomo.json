@@ -1,0 +1,3608 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59.5 b201bb38",
+  "osm3s": {
+    "timestamp_osm_base": "2023-04-14T12:35:45Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 346358318,
+      "lat": 51.0484729,
+      "lon": 3.7211612,
+      "tags": {
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "name": "Ibis Gent Centrum Opera",
+        "operator": "Ibis",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 497395229,
+      "lat": 51.0581732,
+      "lon": 3.7256482,
+      "tags": {
+        "name": "Ghent River Hotel",
+        "tourism": "hotel",
+        "website": "http://www.ghent-river-hotel.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 637028860,
+      "lat": 51.0551644,
+      "lon": 3.7195449,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Korenlei",
+        "brand": "Marriott",
+        "brand:wikidata": "Q1141173",
+        "name": "Marriott Ghent",
+        "operator": "Marriott",
+        "operator:website": "http://www.marriott.com/",
+        "phone": "+32 9 233 93 93",
+        "stars": "4",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1212139210,
+      "lat": 51.0545735,
+      "lon": 3.7257844,
+      "tags": {
+        "name": "Cour St Georges",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1212142919,
+      "lat": 51.05713,
+      "lon": 3.7227518,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "37",
+        "addr:street": "Kraanlei",
+        "name": "Hotel Harmony",
+        "toilets:wheelchair": "no",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1212148279,
+      "lat": 51.0564685,
+      "lon": 3.7197092,
+      "tags": {
+        "name": "Gravensteen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1233489090,
+      "lat": 51.0539632,
+      "lon": 3.7298844,
+      "tags": {
+        "addr:housenumber": "26",
+        "addr:street": "Jan Palfijnstraat",
+        "created_by": "iLOE 1.9",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "name": "Alphabed B&B",
+        "tourism": "guest_house",
+        "website": "http://www.alphabed.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1311953788,
+      "lat": 51.0540805,
+      "lon": 3.7292616,
+      "tags": {
+        "name": "Hotel Flandria",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1361245471,
+      "lat": 51.0410936,
+      "lon": 3.7099472,
+      "tags": {
+        "name": "NH Gent Sint Pieters",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1381893759,
+      "lat": 51.0564822,
+      "lon": 3.7213917,
+      "tags": {
+        "name": "De Waterzooi",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1438344840,
+      "lat": 51.0567301,
+      "lon": 3.7422207,
+      "tags": {
+        "name": "Dampoort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1453559772,
+      "lat": 51.0582106,
+      "lon": 3.7265043,
+      "tags": {
+        "name": "Place2stay",
+        "source_ref": "http://www.place2stayinghent.be/en/home.htmlhttp://www.place2stayinghent.be/en/home.html",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1536602310,
+      "lat": 51.0544316,
+      "lon": 3.7237542,
+      "tags": {
+        "brand": "Novotel",
+        "brand:wikidata": "Q420545",
+        "name": "Novotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1628067362,
+      "lat": 51.0528387,
+      "lon": 3.7261984,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Limburgstraat",
+        "brand": "Ibis",
+        "brand:wikidata": "Q920166",
+        "internet_access": "wlan",
+        "name": "Ibis Gent Centrum St Baafs Kathedraal",
+        "phone": "+32 9 233 00 00",
+        "smoking": "no",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1728521828,
+      "lat": 51.0484696,
+      "lon": 3.749411,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "76",
+        "addr:postcode": "9000",
+        "addr:street": "Wolterslaan",
+        "name": "Cuberdon B&B",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1742153470,
+      "lat": 51.0493736,
+      "lon": 3.7356734,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:postcode": "9000",
+        "addr:street": "Nieuwebosstraat",
+        "name": "Parkhotel",
+        "tourism": "hotel",
+        "website": "http://www.parkhotelgent.be"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1809230019,
+      "lat": 51.0543214,
+      "lon": 3.7171867,
+      "tags": {
+        "addr:city": "BE",
+        "addr:housenumber": "9",
+        "addr:postcode": "9000",
+        "addr:street": "Poel",
+        "name": "PPP",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2046884927,
+      "lat": 51.0553667,
+      "lon": 3.7356613,
+      "tags": {
+        "addr:housenumber": "18",
+        "addr:street": "Lucas Munichstraat",
+        "name": "Bed in Gent",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2225073612,
+      "lat": 51.0495293,
+      "lon": 3.7391171,
+      "tags": {
+        "name": "Castelnou Aparthotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2471120218,
+      "lat": 51.0294743,
+      "lon": 3.7198793,
+      "tags": {
+        "name": "Orion",
+        "phone": "+32 9 395 12 95",
+        "tourism": "hotel",
+        "website": "http://www.hotel-orion.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2519240466,
+      "lat": 51.0224358,
+      "lon": 3.7027242,
+      "tags": {
+        "disused": "yes",
+        "name": "Chalet De Maalte",
+        "stars": "3",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2858001936,
+      "lat": 51.0545875,
+      "lon": 3.7262414,
+      "tags": {
+        "addr:housenumber": "75",
+        "addr:street": "Hoogpoort",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "name": "Best Western",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392860008,
+      "lat": 51.0364208,
+      "lon": 3.7139965,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "138",
+        "addr:postcode": "9000",
+        "addr:street": "Koningin Astridlaan",
+        "contact:email": "info@carltongent.be",
+        "contact:phone": "+32 9 222 88 36",
+        "contact:website": "http://www.carltongent.be/",
+        "name": "Carlton",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3842784240,
+      "lat": 51.0549446,
+      "lon": 3.7179457,
+      "tags": {
+        "name": "Hotel Erasmus",
+        "tourism": "hotel",
+        "website": "http://www.erasmushotel.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3842784241,
+      "lat": 51.0548248,
+      "lon": 3.7181044,
+      "tags": {
+        "name": "Hotel de Flandre",
+        "tourism": "hotel",
+        "website": "http://www.hoteldeflandre.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4235237289,
+      "lat": 51.0546548,
+      "lon": 3.7300653,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:street": "Sint-Jacobsnieuwstraat",
+        "name": "Hotel Cathedral",
+        "tourism": "hotel",
+        "website": "http://www.hotelcathedral.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4407683868,
+      "lat": 51.0332412,
+      "lon": 3.7264919,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "57",
+        "addr:postcode": "9000",
+        "addr:street": "Vlierstraat",
+        "guest_house": "bed_and_breakfast",
+        "internet_access": "wlan",
+        "name": "Su'ro",
+        "phone": "+32 9 330 39 56",
+        "rooms": "2",
+        "tourism": "guest_house",
+        "website": "http://www.suro.be"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4414028223,
+      "lat": 51.0348635,
+      "lon": 3.7257172,
+      "tags": {
+        "addr:housenumber": "66",
+        "addr:street": "Zwijnaardsesteenweg",
+        "name": "Garden in the City",
+        "tourism": "guest_house",
+        "website": "http://www.gardeninthecity.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4433251547,
+      "lat": 51.0580372,
+      "lon": 3.7141842,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:country": "BE",
+        "addr:housenumber": "40",
+        "addr:postcode": "9000",
+        "addr:street": "Rabotstraat",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Atlas B&B",
+        "rooms": "4",
+        "tourism": "guest_house",
+        "website": "https://atlas.gent/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4794810725,
+      "lat": 51.058014,
+      "lon": 3.7486304,
+      "tags": {
+        "contact:phone": "+32 495 15 47 42",
+        "contact:website": "http://bedandbreakfast.be/bed_and_breakfast/detail/Belgium/Oost-Vlaanderen/A_place_to_be",
+        "guest_house": "bed_and_breakfast",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4920611264,
+      "lat": 51.0333368,
+      "lon": 3.7170169,
+      "tags": {
+        "name": "Astoria",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "http://www.astoria.be/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5263800321,
+      "lat": 51.0524955,
+      "lon": 3.7166961,
+      "tags": {
+        "name": "Monasterium Poortackere",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5393747451,
+      "lat": 51.0541384,
+      "lon": 3.7209354,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "16",
+        "addr:postcode": "9000",
+        "addr:street": "Graslei",
+        "brand": "1898 The Post",
+        "email": "welcome@1898thepost.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "1898 The Post",
+        "operator": "1898 The Post",
+        "phone": "+32 9 391 53 79",
+        "rooms": "38",
+        "tourism": "hotel",
+        "website": "https://1898thepost.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5476255921,
+      "lat": 51.0566348,
+      "lon": 3.71369,
+      "tags": {
+        "addr:housenumber": "26",
+        "internet_access": "wlan",
+        "name": "Suite Dreams Ghent",
+        "name:en": "Suite Dreams Ghent",
+        "phone": "+32 494 18 60 10",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5817131929,
+      "lat": 51.0644656,
+      "lon": 3.7507625,
+      "tags": {
+        "addr:housenumber": "42",
+        "addr:street": "Verkortingstraat",
+        "email": "info@touristflat-dewulf.be",
+        "name": "Touristflat Dewulf",
+        "phone": "+32 9 238 29 58",
+        "tourism": "apartment",
+        "website": "http://touristflat-dewulf.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5972432586,
+      "lat": 51.0744813,
+      "lon": 3.7575497,
+      "tags": {
+        "addr:housenumber": "13",
+        "addr:street": "Waterdreef",
+        "internet_access": "yes",
+        "internet_access:fee": "yes",
+        "name": "Villa Emma",
+        "rooms": "2",
+        "smoking": "no",
+        "tourism": "guest_house",
+        "website": "http://www.villa-emma.be"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6139933287,
+      "lat": 51.0546739,
+      "lon": 3.715102,
+      "tags": {
+        "name": "Pillows Grand Hotel Reylof",
+        "tourism": "hotel",
+        "website": "https://www.pillowshotels.com/ghent/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6349298227,
+      "lat": 51.035559,
+      "lon": 3.7130251,
+      "tags": {
+        "name": "The Lord",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6486888453,
+      "lat": 51.033806,
+      "lon": 3.7146984,
+      "tags": {
+        "addr:housenumber": "19",
+        "addr:street": "Sint-Denijslaan",
+        "breakfast": "yes",
+        "name": "Adoma",
+        "stars": "3",
+        "tourism": "hotel",
+        "website": "https://www.hotel-adoma.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6581623646,
+      "lat": 51.0548504,
+      "lon": 3.7255649,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "63",
+        "addr:postcode": "9000",
+        "addr:street": "Hoogpoort",
+        "name": "NH Gent Belfort",
+        "operator": "NH Hotel Group",
+        "phone": "+32 9 233 33 31",
+        "tourism": "hotel",
+        "website": "https://www.nh-hotels.com/hotel/nh-gent-belfort"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6672934384,
+      "lat": 51.0695051,
+      "lon": 3.6675842,
+      "tags": {
+        "addr:housenumber": "35",
+        "addr:street": "Vliegpleinkouter",
+        "email": "info@janvanghent.com",
+        "guest_house": "bed_and_breakfast",
+        "name": "Jan van Ghent",
+        "phone": "+32 475 75 30 59",
+        "stars": "3",
+        "tourism": "guest_house",
+        "website": "http://www.janvanghent.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6861716915,
+      "lat": 51.0502095,
+      "lon": 3.7189525,
+      "tags": {
+        "name": "Onderbergen",
+        "tourism": "hotel",
+        "website": "http://www.hotelonderbergen.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6919498744,
+      "lat": 51.0486793,
+      "lon": 3.7268451,
+      "tags": {
+        "contact:website": "http://www.walpoort.com/",
+        "name": "De Walpoort",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6983076927,
+      "lat": 51.0560219,
+      "lon": 3.7197324,
+      "tags": {
+        "name": "Gravensteen",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7157141492,
+      "lat": 51.0631767,
+      "lon": 3.7252892,
+      "tags": {
+        "name": "Cosy room",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7159063455,
+      "lat": 51.0199916,
+      "lon": 3.7354282,
+      "tags": {
+        "name": "Residence Inn",
+        "operator": "Marriott",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7343104867,
+      "lat": 51.0605957,
+      "lon": 3.7205543,
+      "tags": {
+        "name": "Graaf",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7358137560,
+      "lat": 51.0655991,
+      "lon": 3.7218871,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Abraham Voortmanstraat",
+        "email": "receptie@denbriel.be",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Den Briel",
+        "phone": "+32 9 430 20 00",
+        "tourism": "hotel",
+        "website": "https://denbriel.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7647522676,
+      "lat": 51.0353481,
+      "lon": 3.7072564,
+      "tags": {
+        "name": "Trianon",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9091246718,
+      "lat": 51.0172842,
+      "lon": 3.7352118,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "10",
+        "addr:postcode": "9000",
+        "addr:street": "Akkerhage",
+        "name": "Hotel Van der Valk Gent",
+        "operator": "Van der Valk",
+        "tourism": "hotel",
+        "website": "https://www.hotelgent.be/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9243687787,
+      "lat": 51.0505757,
+      "lon": 3.7295871,
+      "tags": {
+        "addr:housenumber": "54",
+        "addr:street": "Vlaanderenstraat",
+        "guest_house": "bed_and_breakfast",
+        "name": "La Ducale",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9741053699,
+      "lat": 51.0371616,
+      "lon": 3.7118793,
+      "tags": {
+        "name": "Hotel Castel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10158211617,
+      "lat": 51.0606066,
+      "lon": 3.7116531,
+      "tags": {
+        "addr:housenumber": "1/001",
+        "addr:postcode": "9000",
+        "addr:street": "Concrdiastraat",
+        "name": "Nederlants",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10294044911,
+      "lat": 51.0554303,
+      "lon": 3.718696,
+      "tags": {
+        "name:en": "City Garden rooms",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10294652809,
+      "lat": 51.0553985,
+      "lon": 3.7187001,
+      "tags": {
+        "name:en": "City Garden Rooms",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10539853551,
+      "lat": 51.0505667,
+      "lon": 3.7284378,
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "33",
+        "addr:postcode": "9000",
+        "addr:street": "Brabantdam",
+        "email": "hello@yalohotel.com",
+        "name": "Yalo Hotel",
+        "phone": "+32 9 395 92 00",
+        "tourism": "hotel",
+        "website": "https://www.yalohotel.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89705568,
+      "nodes": [
+        1039526982,
+        1039525343,
+        1049937889,
+        1039526362,
+        1039524431,
+        1049937794,
+        1039525108,
+        1039525995,
+        1049937953,
+        1039526947,
+        2925705229,
+        2925705221,
+        1049937720,
+        2925705212,
+        2925705203,
+        2925705080,
+        1049937852,
+        1039524904,
+        2925705015,
+        1039525682,
+        2925705008,
+        1039526803,
+        2925704998,
+        2925704991,
+        1039524982,
+        2925704968,
+        1039526841,
+        1039524807,
+        1039525535,
+        1039526712,
+        1039524662,
+        1039525394,
+        1039526463,
+        3730713117,
+        3730713121,
+        1039524496,
+        1039525212,
+        1039526086,
+        1039526982
+      ],
+      "tags": {
+        "alt_name": "Camping Blaarmeersen",
+        "contact:email": "info@urban-gardens.be",
+        "contact:phone": "+329 396 93 92",
+        "name": "Urban Gardens",
+        "tents": "yes",
+        "tourism": "camp_site",
+        "website": "https://urban-gardens.be/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 89718159,
+      "nodes": [
+        1039739054,
+        2925705076,
+        2925705071,
+        2925705069,
+        2925705073,
+        2925705063,
+        5923869005,
+        5923869004,
+        2925705041,
+        2925705046,
+        2925705051,
+        2925705054,
+        2925705049,
+        2925705077,
+        2925705099,
+        2925705083,
+        2925705092,
+        2925705097,
+        2925705214,
+        2925705215,
+        2925705211,
+        2925705213,
+        2925705225,
+        2925705223,
+        2925705219,
+        2925705218,
+        2925705238,
+        2925705247,
+        1039738707,
+        2925705236,
+        5923868999,
+        5923869008,
+        1039739054
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Sporthotel",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 118636017,
+      "nodes": [
+        1333909797,
+        1333909733,
+        1333909976,
+        1333909855,
+        9349829855,
+        9349829856,
+        9349829852,
+        9349829854,
+        9349829853,
+        9349829851,
+        1333909797
+      ],
+      "tags": {
+        "brand": "Holiday Inn",
+        "brand:wikidata": "Q2717882",
+        "building": "yes",
+        "name": "Holiday Inn",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 169114808,
+      "nodes": [
+        1802829685,
+        1802829688,
+        1802829677,
+        4698102968,
+        4698102969,
+        1802829676,
+        1802829687,
+        1802829659,
+        1802829685
+      ],
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "1-5",
+        "addr:postcode": "9000",
+        "addr:street": "Koningin Elisabethlaan",
+        "building": "yes",
+        "name": "Chamade (Best Western)",
+        "tourism": "hotel",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 184711286,
+      "nodes": [
+        1952179146,
+        1952179142,
+        1952179143,
+        1952179139,
+        1952179138,
+        1952179141,
+        1952179140,
+        1952179144,
+        1952179146
+      ],
+      "tags": {
+        "brand": "Campanile",
+        "brand:wikidata": "Q2412064",
+        "building": "hotel",
+        "name": "Campanile",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 253017618,
+      "nodes": [
+        2590094198,
+        2590094233,
+        2590094218,
+        2590094225,
+        2590094241,
+        2590094258,
+        2590094262,
+        2590094274,
+        2590094283,
+        2590094275,
+        2590094293,
+        2590094290,
+        2590094292,
+        2590094282,
+        2590094288,
+        2590094291,
+        2590094294,
+        2590094277,
+        2590094251,
+        2590094253,
+        2590094250,
+        2590094216,
+        2590094210,
+        2590094209,
+        2590094211,
+        2590094199,
+        2590094180,
+        2590094194,
+        2590094200,
+        2590094201,
+        2590094198
+      ],
+      "tags": {
+        "addr:city": "Gent",
+        "addr:postcode": "9000",
+        "addr:street": "Akkerhage",
+        "addr:unit": "2",
+        "building": "construction",
+        "internet_access": "wlan",
+        "name": "Holiday Inn Express Gent Hotel",
+        "operator": "IHG",
+        "phone": "+32 9 222 58 85",
+        "rooms": "120",
+        "smoking": "no",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 318086153,
+      "nodes": [
+        3244592358,
+        3244592359,
+        3244592360,
+        3244595061,
+        3244595062,
+        3244595063,
+        3244595064,
+        3244595065,
+        3244595066,
+        3244595067,
+        3244595068,
+        3244595069,
+        3244595070,
+        3244595071,
+        3244595072,
+        3244595073,
+        3244592358
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Class'Eco",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 392681213,
+      "nodes": [
+        3958698806,
+        3958698807,
+        3958698805,
+        3958698804,
+        3958698806
+      ],
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "44",
+        "addr:street": "Voorhoutkaai",
+        "building": "yes",
+        "internet_access": "wlan",
+        "name": "The Boatel",
+        "phone": "+32 9 267 10 30",
+        "rooms": "5",
+        "tourism": "hotel",
+        "website": "https://www.theboatel.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405683154,
+      "nodes": [
+        6631266187,
+        9845272988,
+        9845272987,
+        4078411725,
+        4078411726,
+        9845272986,
+        4078411724,
+        4078411727,
+        6631266186,
+        6631266187
+      ],
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "66;66A",
+        "addr:postcode": "9000",
+        "addr:street": "Noordveenakkerstraat",
+        "building": "house",
+        "building:levels": "3",
+        "description": "3 full Equipped and Serviced Studios 1 full Equipped and Seviced Apartment",
+        "name": "1 2 Stay",
+        "phone": "+32 478 34 93 34",
+        "source:geometry:date": "2015-10-01",
+        "source:geometry:ref": "Gbg/1425992",
+        "tourism": "guest_house",
+        "website": "https://www.12stay.be/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 794154910,
+      "nodes": [
+        7427544497,
+        7427544495,
+        7427544494,
+        7427544493,
+        7427544492,
+        7427544491,
+        7427544497
+      ],
+      "tags": {
+        "addr:housenumber": "41",
+        "addr:street": "Koopvaardijlaan",
+        "brand": "Ibis Hotels",
+        "brand:wikidata": "Q920166",
+        "building": "hotel",
+        "name": "Ibis Budget Gent Dampoort",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 824895985,
+      "nodes": [
+        7702617672,
+        7702617673,
+        7702617670,
+        7702617671,
+        7702617668,
+        7702617669,
+        7702617666,
+        7702617667,
+        7702617664,
+        7702617665,
+        7702617662,
+        7702617672
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Ghenttower",
+        "source:geometry:date": "2001-08-13",
+        "source:geometry:ref": "Gbg/33070",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "way",
+      "id": 850734107,
+      "nodes": [
+        7936464382,
+        7936464384,
+        7936464383,
+        9634045830,
+        9634022079,
+        7936464381,
+        7936464382
+      ],
+      "tags": {
+        "addr:city": "Gent",
+        "addr:housenumber": "57",
+        "addr:postcode": "9000",
+        "addr:street": "Francisco Ferrerlaan",
+        "building": "house",
+        "guest_house": "bed_and_breakfast",
+        "name": "B&B 1 uit de 100",
+        "operator": "Ruth Labee",
+        "source:geometry:date": "2015-10-01",
+        "source:geometry:ref": "Gbg/1413179",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1110819836,
+      "nodes": [
+        10162741082,
+        10162741083,
+        10162741084,
+        10162741085,
+        10162742042,
+        10162741086,
+        9152974929,
+        10162741087,
+        1848278440,
+        10162741088,
+        10162741089,
+        10162741090,
+        10162741091,
+        1691892266,
+        10162741092,
+        10162742024,
+        10162741093,
+        10162741094,
+        10162741095,
+        10162741096,
+        10162741097,
+        10154163842,
+        10154163902,
+        10162742032,
+        10162742033,
+        10162741098,
+        10162741082
+      ],
+      "tags": {
+        "access": "permissive",
+        "description": "Voormalig kasteelpark, thans jeugdverblijd dat toegankelijk is",
+        "dog": "leashed",
+        "group_only": "yes",
+        "leisure": "park",
+        "park": "castle",
+        "tourism": "camp_site"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1333909797,
+      "lat": 51.0262942,
+      "lon": 3.6894634
+    },
+    {
+      "type": "node",
+      "id": 1333909855,
+      "lat": 51.0258828,
+      "lon": 3.6890593
+    },
+    {
+      "type": "node",
+      "id": 9349829851,
+      "lat": 51.0262383,
+      "lon": 3.6894127
+    },
+    {
+      "type": "node",
+      "id": 9349829852,
+      "lat": 51.0262347,
+      "lon": 3.6893967
+    },
+    {
+      "type": "node",
+      "id": 9349829853,
+      "lat": 51.0262332,
+      "lon": 3.6894265
+    },
+    {
+      "type": "node",
+      "id": 9349829854,
+      "lat": 51.0262263,
+      "lon": 3.6894203
+    },
+    {
+      "type": "node",
+      "id": 9349829855,
+      "lat": 51.0259566,
+      "lon": 3.6891256
+    },
+    {
+      "type": "node",
+      "id": 9349829856,
+      "lat": 51.0259507,
+      "lon": 3.6891435
+    },
+    {
+      "type": "node",
+      "id": 1333909733,
+      "lat": 51.0260617,
+      "lon": 3.6901187
+    },
+    {
+      "type": "node",
+      "id": 1333909976,
+      "lat": 51.0256471,
+      "lon": 3.689751
+    },
+    {
+      "type": "node",
+      "id": 1952179144,
+      "lat": 51.0192023,
+      "lon": 3.7355372
+    },
+    {
+      "type": "node",
+      "id": 2590094180,
+      "lat": 51.0196663,
+      "lon": 3.7351629
+    },
+    {
+      "type": "node",
+      "id": 2590094194,
+      "lat": 51.0197737,
+      "lon": 3.734946
+    },
+    {
+      "type": "node",
+      "id": 2590094198,
+      "lat": 51.0197871,
+      "lon": 3.7349158
+    },
+    {
+      "type": "node",
+      "id": 2590094199,
+      "lat": 51.0197967,
+      "lon": 3.7353261
+    },
+    {
+      "type": "node",
+      "id": 2590094200,
+      "lat": 51.0198014,
+      "lon": 3.7349807
+    },
+    {
+      "type": "node",
+      "id": 2590094201,
+      "lat": 51.0198158,
+      "lon": 3.7349516
+    },
+    {
+      "type": "node",
+      "id": 2590094209,
+      "lat": 51.0198865,
+      "lon": 3.7350844
+    },
+    {
+      "type": "node",
+      "id": 2590094210,
+      "lat": 51.0198991,
+      "lon": 3.735059
+    },
+    {
+      "type": "node",
+      "id": 2590094211,
+      "lat": 51.019905,
+      "lon": 3.7351075
+    },
+    {
+      "type": "node",
+      "id": 2590094216,
+      "lat": 51.0199172,
+      "lon": 3.7350816
+    },
+    {
+      "type": "node",
+      "id": 2590094218,
+      "lat": 51.0199408,
+      "lon": 3.7343405
+    },
+    {
+      "type": "node",
+      "id": 2590094225,
+      "lat": 51.0199945,
+      "lon": 3.7342321
+    },
+    {
+      "type": "node",
+      "id": 2590094233,
+      "lat": 51.0200218,
+      "lon": 3.734442
+    },
+    {
+      "type": "node",
+      "id": 2590094241,
+      "lat": 51.0200348,
+      "lon": 3.7342826
+    },
+    {
+      "type": "node",
+      "id": 2590094250,
+      "lat": 51.0200766,
+      "lon": 3.7347598
+    },
+    {
+      "type": "node",
+      "id": 2590094251,
+      "lat": 51.0200778,
+      "lon": 3.7348161
+    },
+    {
+      "type": "node",
+      "id": 2590094253,
+      "lat": 51.0200946,
+      "lon": 3.7347822
+    },
+    {
+      "type": "node",
+      "id": 2590094258,
+      "lat": 51.0201532,
+      "lon": 3.7340436
+    },
+    {
+      "type": "node",
+      "id": 2590094262,
+      "lat": 51.0201887,
+      "lon": 3.734088
+    },
+    {
+      "type": "node",
+      "id": 2590094274,
+      "lat": 51.0202374,
+      "lon": 3.7339898
+    },
+    {
+      "type": "node",
+      "id": 2590094275,
+      "lat": 51.0202443,
+      "lon": 3.7341601
+    },
+    {
+      "type": "node",
+      "id": 2590094277,
+      "lat": 51.0202568,
+      "lon": 3.7350403
+    },
+    {
+      "type": "node",
+      "id": 2590094282,
+      "lat": 51.0202935,
+      "lon": 3.7346421
+    },
+    {
+      "type": "node",
+      "id": 2590094283,
+      "lat": 51.0202937,
+      "lon": 3.7340603
+    },
+    {
+      "type": "node",
+      "id": 2590094288,
+      "lat": 51.0203233,
+      "lon": 3.7346795
+    },
+    {
+      "type": "node",
+      "id": 2590094290,
+      "lat": 51.0203474,
+      "lon": 3.7344684
+    },
+    {
+      "type": "node",
+      "id": 2590094291,
+      "lat": 51.0203512,
+      "lon": 3.7346232
+    },
+    {
+      "type": "node",
+      "id": 2590094292,
+      "lat": 51.0203672,
+      "lon": 3.7344932
+    },
+    {
+      "type": "node",
+      "id": 2590094293,
+      "lat": 51.0204022,
+      "lon": 3.7343577
+    },
+    {
+      "type": "node",
+      "id": 2590094294,
+      "lat": 51.0204204,
+      "lon": 3.7347099
+    },
+    {
+      "type": "node",
+      "id": 1952179138,
+      "lat": 51.0189557,
+      "lon": 3.7360976
+    },
+    {
+      "type": "node",
+      "id": 1952179139,
+      "lat": 51.0190527,
+      "lon": 3.7362155
+    },
+    {
+      "type": "node",
+      "id": 1952179140,
+      "lat": 51.0190704,
+      "lon": 3.7358116
+    },
+    {
+      "type": "node",
+      "id": 1952179141,
+      "lat": 51.0190848,
+      "lon": 3.735829
+    },
+    {
+      "type": "node",
+      "id": 1952179142,
+      "lat": 51.0191585,
+      "lon": 3.7359163
+    },
+    {
+      "type": "node",
+      "id": 1952179143,
+      "lat": 51.0191825,
+      "lon": 3.7359454
+    },
+    {
+      "type": "node",
+      "id": 1952179146,
+      "lat": 51.0192897,
+      "lon": 3.7356434
+    },
+    {
+      "type": "node",
+      "id": 1691892266,
+      "lat": 51.013432,
+      "lon": 3.755209
+    },
+    {
+      "type": "node",
+      "id": 1848278440,
+      "lat": 51.012463,
+      "lon": 3.7542716
+    },
+    {
+      "type": "node",
+      "id": 9152974929,
+      "lat": 51.0121223,
+      "lon": 3.7541035
+    },
+    {
+      "type": "node",
+      "id": 10162741084,
+      "lat": 51.0112373,
+      "lon": 3.7550998
+    },
+    {
+      "type": "node",
+      "id": 10162741085,
+      "lat": 51.0112353,
+      "lon": 3.7550936
+    },
+    {
+      "type": "node",
+      "id": 10162741086,
+      "lat": 51.0120574,
+      "lon": 3.7544974
+    },
+    {
+      "type": "node",
+      "id": 10162741087,
+      "lat": 51.0123149,
+      "lon": 3.7541916
+    },
+    {
+      "type": "node",
+      "id": 10162741088,
+      "lat": 51.0124615,
+      "lon": 3.7543445
+    },
+    {
+      "type": "node",
+      "id": 10162741089,
+      "lat": 51.0127929,
+      "lon": 3.754542
+    },
+    {
+      "type": "node",
+      "id": 10162741090,
+      "lat": 51.0127754,
+      "lon": 3.7545977
+    },
+    {
+      "type": "node",
+      "id": 10162741091,
+      "lat": 51.0132135,
+      "lon": 3.7549769
+    },
+    {
+      "type": "node",
+      "id": 10162742042,
+      "lat": 51.0113893,
+      "lon": 3.7549819
+    },
+    {
+      "type": "node",
+      "id": 10154163842,
+      "lat": 51.0120845,
+      "lon": 3.7576695
+    },
+    {
+      "type": "node",
+      "id": 10154163902,
+      "lat": 51.0120604,
+      "lon": 3.7577629
+    },
+    {
+      "type": "node",
+      "id": 10162741082,
+      "lat": 51.011044,
+      "lon": 3.7552897
+    },
+    {
+      "type": "node",
+      "id": 10162741083,
+      "lat": 51.0111753,
+      "lon": 3.7553729
+    },
+    {
+      "type": "node",
+      "id": 10162741092,
+      "lat": 51.0129346,
+      "lon": 3.7564651
+    },
+    {
+      "type": "node",
+      "id": 10162741093,
+      "lat": 51.0124444,
+      "lon": 3.7579492
+    },
+    {
+      "type": "node",
+      "id": 10162741094,
+      "lat": 51.0124082,
+      "lon": 3.7579258
+    },
+    {
+      "type": "node",
+      "id": 10162741095,
+      "lat": 51.0123935,
+      "lon": 3.7579864
+    },
+    {
+      "type": "node",
+      "id": 10162741096,
+      "lat": 51.0121646,
+      "lon": 3.7578321
+    },
+    {
+      "type": "node",
+      "id": 10162741097,
+      "lat": 51.012188,
+      "lon": 3.7577359
+    },
+    {
+      "type": "node",
+      "id": 10162741098,
+      "lat": 51.0107309,
+      "lon": 3.7568719
+    },
+    {
+      "type": "node",
+      "id": 10162742024,
+      "lat": 51.0124943,
+      "lon": 3.7577979
+    },
+    {
+      "type": "node",
+      "id": 10162742032,
+      "lat": 51.0117844,
+      "lon": 3.757578
+    },
+    {
+      "type": "node",
+      "id": 10162742033,
+      "lat": 51.0115921,
+      "lon": 3.7574491
+    },
+    {
+      "type": "node",
+      "id": 1039524496,
+      "lat": 51.0475246,
+      "lon": 3.6792312
+    },
+    {
+      "type": "node",
+      "id": 1039524662,
+      "lat": 51.0448089,
+      "lon": 3.6815584
+    },
+    {
+      "type": "node",
+      "id": 1039524807,
+      "lat": 51.0457263,
+      "lon": 3.6823274
+    },
+    {
+      "type": "node",
+      "id": 1039524904,
+      "lat": 51.0481206,
+      "lon": 3.6799495
+    },
+    {
+      "type": "node",
+      "id": 1039524982,
+      "lat": 51.0461703,
+      "lon": 3.6810059
+    },
+    {
+      "type": "node",
+      "id": 1039525212,
+      "lat": 51.0483498,
+      "lon": 3.6790939
+    },
+    {
+      "type": "node",
+      "id": 1039525394,
+      "lat": 51.0447108,
+      "lon": 3.6810588
+    },
+    {
+      "type": "node",
+      "id": 1039525535,
+      "lat": 51.0450859,
+      "lon": 3.681997
+    },
+    {
+      "type": "node",
+      "id": 1039525682,
+      "lat": 51.0477405,
+      "lon": 3.6806216
+    },
+    {
+      "type": "node",
+      "id": 1039526086,
+      "lat": 51.0488089,
+      "lon": 3.6789197
+    },
+    {
+      "type": "node",
+      "id": 1039526463,
+      "lat": 51.0445177,
+      "lon": 3.6800076
+    },
+    {
+      "type": "node",
+      "id": 1039526712,
+      "lat": 51.0449202,
+      "lon": 3.6817926
+    },
+    {
+      "type": "node",
+      "id": 1039526803,
+      "lat": 51.0475151,
+      "lon": 3.6805696
+    },
+    {
+      "type": "node",
+      "id": 1039526841,
+      "lat": 51.0458404,
+      "lon": 3.6822578
+    },
+    {
+      "type": "node",
+      "id": 1039526947,
+      "lat": 51.0492337,
+      "lon": 3.6806095
+    },
+    {
+      "type": "node",
+      "id": 1039739054,
+      "lat": 51.0488534,
+      "lon": 3.6821561
+    },
+    {
+      "type": "node",
+      "id": 1049937720,
+      "lat": 51.0491035,
+      "lon": 3.679776
+    },
+    {
+      "type": "node",
+      "id": 1049937852,
+      "lat": 51.048549,
+      "lon": 3.6801009
+    },
+    {
+      "type": "node",
+      "id": 2925704968,
+      "lat": 51.0460615,
+      "lon": 3.6811734
+    },
+    {
+      "type": "node",
+      "id": 2925704991,
+      "lat": 51.0465255,
+      "lon": 3.6808907
+    },
+    {
+      "type": "node",
+      "id": 2925704998,
+      "lat": 51.0467033,
+      "lon": 3.6808336
+    },
+    {
+      "type": "node",
+      "id": 2925705008,
+      "lat": 51.0476436,
+      "lon": 3.6805785
+    },
+    {
+      "type": "node",
+      "id": 2925705015,
+      "lat": 51.0479157,
+      "lon": 3.6802657
+    },
+    {
+      "type": "node",
+      "id": 2925705041,
+      "lat": 51.0485903,
+      "lon": 3.6825333
+    },
+    {
+      "type": "node",
+      "id": 2925705046,
+      "lat": 51.0486394,
+      "lon": 3.6822985
+    },
+    {
+      "type": "node",
+      "id": 2925705049,
+      "lat": 51.0486631,
+      "lon": 3.6822776
+    },
+    {
+      "type": "node",
+      "id": 2925705051,
+      "lat": 51.0486942,
+      "lon": 3.6823275
+    },
+    {
+      "type": "node",
+      "id": 2925705054,
+      "lat": 51.0487005,
+      "lon": 3.6822974
+    },
+    {
+      "type": "node",
+      "id": 2925705063,
+      "lat": 51.0487329,
+      "lon": 3.6826089
+    },
+    {
+      "type": "node",
+      "id": 2925705069,
+      "lat": 51.0487608,
+      "lon": 3.6823628
+    },
+    {
+      "type": "node",
+      "id": 2925705071,
+      "lat": 51.0487671,
+      "lon": 3.6823327
+    },
+    {
+      "type": "node",
+      "id": 2925705073,
+      "lat": 51.048782,
+      "lon": 3.682374
+    },
+    {
+      "type": "node",
+      "id": 2925705076,
+      "lat": 51.0488115,
+      "lon": 3.6823562
+    },
+    {
+      "type": "node",
+      "id": 2925705077,
+      "lat": 51.0488127,
+      "lon": 3.6815628
+    },
+    {
+      "type": "node",
+      "id": 2925705080,
+      "lat": 51.048841,
+      "lon": 3.68014
+    },
+    {
+      "type": "node",
+      "id": 2925705083,
+      "lat": 51.0488679,
+      "lon": 3.6820869
+    },
+    {
+      "type": "node",
+      "id": 2925705092,
+      "lat": 51.0489163,
+      "lon": 3.6821125
+    },
+    {
+      "type": "node",
+      "id": 2925705097,
+      "lat": 51.0489521,
+      "lon": 3.6819414
+    },
+    {
+      "type": "node",
+      "id": 2925705099,
+      "lat": 51.0489611,
+      "lon": 3.6816415
+    },
+    {
+      "type": "node",
+      "id": 2925705203,
+      "lat": 51.0489955,
+      "lon": 3.6800144
+    },
+    {
+      "type": "node",
+      "id": 2925705211,
+      "lat": 51.0490407,
+      "lon": 3.6819408
+    },
+    {
+      "type": "node",
+      "id": 2925705212,
+      "lat": 51.0490587,
+      "lon": 3.6797798
+    },
+    {
+      "type": "node",
+      "id": 2925705213,
+      "lat": 51.0490681,
+      "lon": 3.6818097
+    },
+    {
+      "type": "node",
+      "id": 2925705214,
+      "lat": 51.0490694,
+      "lon": 3.6820036
+    },
+    {
+      "type": "node",
+      "id": 2925705215,
+      "lat": 51.0490784,
+      "lon": 3.6819607
+    },
+    {
+      "type": "node",
+      "id": 2925705218,
+      "lat": 51.0491028,
+      "lon": 3.6820213
+    },
+    {
+      "type": "node",
+      "id": 2925705219,
+      "lat": 51.049111,
+      "lon": 3.6819823
+    },
+    {
+      "type": "node",
+      "id": 2925705221,
+      "lat": 51.0491272,
+      "lon": 3.67983
+    },
+    {
+      "type": "node",
+      "id": 2925705223,
+      "lat": 51.0491438,
+      "lon": 3.6819996
+    },
+    {
+      "type": "node",
+      "id": 2925705225,
+      "lat": 51.049172,
+      "lon": 3.6818647
+    },
+    {
+      "type": "node",
+      "id": 2925705229,
+      "lat": 51.049208,
+      "lon": 3.6803439
+    },
+    {
+      "type": "node",
+      "id": 3730713117,
+      "lat": 51.0461576,
+      "lon": 3.6796526
+    },
+    {
+      "type": "node",
+      "id": 3730713121,
+      "lat": 51.0468483,
+      "lon": 3.6794713
+    },
+    {
+      "type": "node",
+      "id": 5923868999,
+      "lat": 51.0490259,
+      "lon": 3.6822473
+    },
+    {
+      "type": "node",
+      "id": 5923869004,
+      "lat": 51.0486353,
+      "lon": 3.6825576
+    },
+    {
+      "type": "node",
+      "id": 5923869005,
+      "lat": 51.0486744,
+      "lon": 3.6825774
+    },
+    {
+      "type": "node",
+      "id": 5923869008,
+      "lat": 51.0489436,
+      "lon": 3.6822057
+    },
+    {
+      "type": "node",
+      "id": 1039524431,
+      "lat": 51.049577,
+      "lon": 3.6801591
+    },
+    {
+      "type": "node",
+      "id": 1039525108,
+      "lat": 51.0495078,
+      "lon": 3.6802892
+    },
+    {
+      "type": "node",
+      "id": 1039525343,
+      "lat": 51.0496592,
+      "lon": 3.6788622
+    },
+    {
+      "type": "node",
+      "id": 1039525995,
+      "lat": 51.0493931,
+      "lon": 3.680327
+    },
+    {
+      "type": "node",
+      "id": 1039526362,
+      "lat": 51.0496872,
+      "lon": 3.6790636
+    },
+    {
+      "type": "node",
+      "id": 1039526982,
+      "lat": 51.049546,
+      "lon": 3.6786412
+    },
+    {
+      "type": "node",
+      "id": 1039738707,
+      "lat": 51.0497446,
+      "lon": 3.6826282
+    },
+    {
+      "type": "node",
+      "id": 1049937794,
+      "lat": 51.0495465,
+      "lon": 3.6802377
+    },
+    {
+      "type": "node",
+      "id": 1049937889,
+      "lat": 51.0496885,
+      "lon": 3.6789682
+    },
+    {
+      "type": "node",
+      "id": 1049937953,
+      "lat": 51.0493064,
+      "lon": 3.6804547
+    },
+    {
+      "type": "node",
+      "id": 2925705236,
+      "lat": 51.0493914,
+      "lon": 3.6824411
+    },
+    {
+      "type": "node",
+      "id": 2925705238,
+      "lat": 51.049465,
+      "lon": 3.6822151
+    },
+    {
+      "type": "node",
+      "id": 2925705247,
+      "lat": 51.0497949,
+      "lon": 3.6823879
+    },
+    {
+      "type": "node",
+      "id": 1802829659,
+      "lat": 51.0374259,
+      "lon": 3.714787
+    },
+    {
+      "type": "node",
+      "id": 1802829676,
+      "lat": 51.0372199,
+      "lon": 3.7145724
+    },
+    {
+      "type": "node",
+      "id": 1802829677,
+      "lat": 51.0372686,
+      "lon": 3.7146241
+    },
+    {
+      "type": "node",
+      "id": 1802829685,
+      "lat": 51.0374094,
+      "lon": 3.7148203
+    },
+    {
+      "type": "node",
+      "id": 1802829687,
+      "lat": 51.0373196,
+      "lon": 3.71448
+    },
+    {
+      "type": "node",
+      "id": 1802829688,
+      "lat": 51.0372479,
+      "lon": 3.7147498
+    },
+    {
+      "type": "node",
+      "id": 4698102968,
+      "lat": 51.0372628,
+      "lon": 3.7146181
+    },
+    {
+      "type": "node",
+      "id": 4698102969,
+      "lat": 51.0372582,
+      "lon": 3.7146228
+    },
+    {
+      "type": "node",
+      "id": 7936464381,
+      "lat": 51.0684128,
+      "lon": 3.7009079
+    },
+    {
+      "type": "node",
+      "id": 7936464382,
+      "lat": 51.0684858,
+      "lon": 3.7007425
+    },
+    {
+      "type": "node",
+      "id": 7936464383,
+      "lat": 51.0684732,
+      "lon": 3.7006633
+    },
+    {
+      "type": "node",
+      "id": 7936464384,
+      "lat": 51.0684557,
+      "lon": 3.7007103
+    },
+    {
+      "type": "node",
+      "id": 9634022079,
+      "lat": 51.0683153,
+      "lon": 3.7008031
+    },
+    {
+      "type": "node",
+      "id": 9634045830,
+      "lat": 51.0684069,
+      "lon": 3.7005909
+    },
+    {
+      "type": "node",
+      "id": 3958698804,
+      "lat": 51.0538989,
+      "lon": 3.7350412
+    },
+    {
+      "type": "node",
+      "id": 3958698805,
+      "lat": 51.0539082,
+      "lon": 3.7351205
+    },
+    {
+      "type": "node",
+      "id": 3958698806,
+      "lat": 51.0542319,
+      "lon": 3.7349432
+    },
+    {
+      "type": "node",
+      "id": 3958698807,
+      "lat": 51.0542411,
+      "lon": 3.7350225
+    },
+    {
+      "type": "node",
+      "id": 7702617662,
+      "lat": 51.0406447,
+      "lon": 3.7724247
+    },
+    {
+      "type": "node",
+      "id": 7702617664,
+      "lat": 51.0408016,
+      "lon": 3.7726415
+    },
+    {
+      "type": "node",
+      "id": 7702617665,
+      "lat": 51.0407517,
+      "lon": 3.7726917
+    },
+    {
+      "type": "node",
+      "id": 7702617666,
+      "lat": 51.0408261,
+      "lon": 3.772468
+    },
+    {
+      "type": "node",
+      "id": 7702617667,
+      "lat": 51.0407606,
+      "lon": 3.7725347
+    },
+    {
+      "type": "node",
+      "id": 7702617668,
+      "lat": 51.0407571,
+      "lon": 3.7724426
+    },
+    {
+      "type": "node",
+      "id": 7702617669,
+      "lat": 51.0407995,
+      "lon": 3.7723989
+    },
+    {
+      "type": "node",
+      "id": 7702617670,
+      "lat": 51.0407166,
+      "lon": 3.7724258
+    },
+    {
+      "type": "node",
+      "id": 7702617671,
+      "lat": 51.0407416,
+      "lon": 3.7724025
+    },
+    {
+      "type": "node",
+      "id": 7702617672,
+      "lat": 51.0406964,
+      "lon": 3.7723724
+    },
+    {
+      "type": "node",
+      "id": 7702617673,
+      "lat": 51.0407074,
+      "lon": 3.7724017
+    },
+    {
+      "type": "node",
+      "id": 7427544491,
+      "lat": 51.059274,
+      "lon": 3.7388791
+    },
+    {
+      "type": "node",
+      "id": 7427544492,
+      "lat": 51.0595027,
+      "lon": 3.7387819
+    },
+    {
+      "type": "node",
+      "id": 7427544493,
+      "lat": 51.0594875,
+      "lon": 3.7386834
+    },
+    {
+      "type": "node",
+      "id": 7427544494,
+      "lat": 51.0595903,
+      "lon": 3.7386394
+    },
+    {
+      "type": "node",
+      "id": 7427544495,
+      "lat": 51.0596351,
+      "lon": 3.7389001
+    },
+    {
+      "type": "node",
+      "id": 7427544497,
+      "lat": 51.0593034,
+      "lon": 3.7390424
+    },
+    {
+      "type": "node",
+      "id": 4078411724,
+      "lat": 51.073581,
+      "lon": 3.7453413
+    },
+    {
+      "type": "node",
+      "id": 4078411725,
+      "lat": 51.0736495,
+      "lon": 3.7454788
+    },
+    {
+      "type": "node",
+      "id": 4078411726,
+      "lat": 51.0736254,
+      "lon": 3.7453292
+    },
+    {
+      "type": "node",
+      "id": 4078411727,
+      "lat": 51.0735786,
+      "lon": 3.7453261
+    },
+    {
+      "type": "node",
+      "id": 6631266186,
+      "lat": 51.073544,
+      "lon": 3.7453402
+    },
+    {
+      "type": "node",
+      "id": 6631266187,
+      "lat": 51.0735727,
+      "lon": 3.7455157
+    },
+    {
+      "type": "node",
+      "id": 9845272986,
+      "lat": 51.0736035,
+      "lon": 3.7453319
+    },
+    {
+      "type": "node",
+      "id": 9845272987,
+      "lat": 51.07363,
+      "lon": 3.7454863
+    },
+    {
+      "type": "node",
+      "id": 9845272988,
+      "lat": 51.0736312,
+      "lon": 3.7454926
+    },
+    {
+      "type": "node",
+      "id": 3244592358,
+      "lat": 51.0761005,
+      "lon": 3.7445497
+    },
+    {
+      "type": "node",
+      "id": 3244592359,
+      "lat": 51.0760935,
+      "lon": 3.7444536
+    },
+    {
+      "type": "node",
+      "id": 3244592360,
+      "lat": 51.0760022,
+      "lon": 3.7444704
+    },
+    {
+      "type": "node",
+      "id": 3244595061,
+      "lat": 51.0759899,
+      "lon": 3.7443007
+    },
+    {
+      "type": "node",
+      "id": 3244595062,
+      "lat": 51.0760909,
+      "lon": 3.7442821
+    },
+    {
+      "type": "node",
+      "id": 3244595063,
+      "lat": 51.0760808,
+      "lon": 3.7441432
+    },
+    {
+      "type": "node",
+      "id": 3244595064,
+      "lat": 51.0759803,
+      "lon": 3.7441617
+    },
+    {
+      "type": "node",
+      "id": 3244595065,
+      "lat": 51.0759737,
+      "lon": 3.744072
+    },
+    {
+      "type": "node",
+      "id": 3244595066,
+      "lat": 51.0758976,
+      "lon": 3.744086
+    },
+    {
+      "type": "node",
+      "id": 3244595067,
+      "lat": 51.0759044,
+      "lon": 3.7441801
+    },
+    {
+      "type": "node",
+      "id": 3244595068,
+      "lat": 51.0757849,
+      "lon": 3.7442021
+    },
+    {
+      "type": "node",
+      "id": 3244595069,
+      "lat": 51.0757957,
+      "lon": 3.744351
+    },
+    {
+      "type": "node",
+      "id": 3244595070,
+      "lat": 51.0759104,
+      "lon": 3.7443299
+    },
+    {
+      "type": "node",
+      "id": 3244595071,
+      "lat": 51.0759201,
+      "lon": 3.7444642
+    },
+    {
+      "type": "node",
+      "id": 3244595072,
+      "lat": 51.0759662,
+      "lon": 3.7444557
+    },
+    {
+      "type": "node",
+      "id": 3244595073,
+      "lat": 51.0759747,
+      "lon": 3.7445729
+    },
+    {
+      "type": "node",
+      "id": 1333909797,
+      "lat": 51.0262942,
+      "lon": 3.6894634
+    },
+    {
+      "type": "node",
+      "id": 1333909855,
+      "lat": 51.0258828,
+      "lon": 3.6890593
+    },
+    {
+      "type": "node",
+      "id": 9349829851,
+      "lat": 51.0262383,
+      "lon": 3.6894127
+    },
+    {
+      "type": "node",
+      "id": 9349829852,
+      "lat": 51.0262347,
+      "lon": 3.6893967
+    },
+    {
+      "type": "node",
+      "id": 9349829853,
+      "lat": 51.0262332,
+      "lon": 3.6894265
+    },
+    {
+      "type": "node",
+      "id": 9349829854,
+      "lat": 51.0262263,
+      "lon": 3.6894203
+    },
+    {
+      "type": "node",
+      "id": 9349829855,
+      "lat": 51.0259566,
+      "lon": 3.6891256
+    },
+    {
+      "type": "node",
+      "id": 9349829856,
+      "lat": 51.0259507,
+      "lon": 3.6891435
+    },
+    {
+      "type": "node",
+      "id": 1333909733,
+      "lat": 51.0260617,
+      "lon": 3.6901187
+    },
+    {
+      "type": "node",
+      "id": 1333909976,
+      "lat": 51.0256471,
+      "lon": 3.689751
+    },
+    {
+      "type": "node",
+      "id": 1952179144,
+      "lat": 51.0192023,
+      "lon": 3.7355372
+    },
+    {
+      "type": "node",
+      "id": 2590094180,
+      "lat": 51.0196663,
+      "lon": 3.7351629
+    },
+    {
+      "type": "node",
+      "id": 2590094194,
+      "lat": 51.0197737,
+      "lon": 3.734946
+    },
+    {
+      "type": "node",
+      "id": 2590094198,
+      "lat": 51.0197871,
+      "lon": 3.7349158
+    },
+    {
+      "type": "node",
+      "id": 2590094199,
+      "lat": 51.0197967,
+      "lon": 3.7353261
+    },
+    {
+      "type": "node",
+      "id": 2590094200,
+      "lat": 51.0198014,
+      "lon": 3.7349807
+    },
+    {
+      "type": "node",
+      "id": 2590094201,
+      "lat": 51.0198158,
+      "lon": 3.7349516
+    },
+    {
+      "type": "node",
+      "id": 2590094209,
+      "lat": 51.0198865,
+      "lon": 3.7350844
+    },
+    {
+      "type": "node",
+      "id": 2590094210,
+      "lat": 51.0198991,
+      "lon": 3.735059
+    },
+    {
+      "type": "node",
+      "id": 2590094211,
+      "lat": 51.019905,
+      "lon": 3.7351075
+    },
+    {
+      "type": "node",
+      "id": 2590094216,
+      "lat": 51.0199172,
+      "lon": 3.7350816
+    },
+    {
+      "type": "node",
+      "id": 2590094218,
+      "lat": 51.0199408,
+      "lon": 3.7343405
+    },
+    {
+      "type": "node",
+      "id": 2590094225,
+      "lat": 51.0199945,
+      "lon": 3.7342321
+    },
+    {
+      "type": "node",
+      "id": 2590094233,
+      "lat": 51.0200218,
+      "lon": 3.734442
+    },
+    {
+      "type": "node",
+      "id": 2590094241,
+      "lat": 51.0200348,
+      "lon": 3.7342826
+    },
+    {
+      "type": "node",
+      "id": 2590094250,
+      "lat": 51.0200766,
+      "lon": 3.7347598
+    },
+    {
+      "type": "node",
+      "id": 2590094251,
+      "lat": 51.0200778,
+      "lon": 3.7348161
+    },
+    {
+      "type": "node",
+      "id": 2590094253,
+      "lat": 51.0200946,
+      "lon": 3.7347822
+    },
+    {
+      "type": "node",
+      "id": 2590094258,
+      "lat": 51.0201532,
+      "lon": 3.7340436
+    },
+    {
+      "type": "node",
+      "id": 2590094262,
+      "lat": 51.0201887,
+      "lon": 3.734088
+    },
+    {
+      "type": "node",
+      "id": 2590094274,
+      "lat": 51.0202374,
+      "lon": 3.7339898
+    },
+    {
+      "type": "node",
+      "id": 2590094275,
+      "lat": 51.0202443,
+      "lon": 3.7341601
+    },
+    {
+      "type": "node",
+      "id": 2590094277,
+      "lat": 51.0202568,
+      "lon": 3.7350403
+    },
+    {
+      "type": "node",
+      "id": 2590094282,
+      "lat": 51.0202935,
+      "lon": 3.7346421
+    },
+    {
+      "type": "node",
+      "id": 2590094283,
+      "lat": 51.0202937,
+      "lon": 3.7340603
+    },
+    {
+      "type": "node",
+      "id": 2590094288,
+      "lat": 51.0203233,
+      "lon": 3.7346795
+    },
+    {
+      "type": "node",
+      "id": 2590094290,
+      "lat": 51.0203474,
+      "lon": 3.7344684
+    },
+    {
+      "type": "node",
+      "id": 2590094291,
+      "lat": 51.0203512,
+      "lon": 3.7346232
+    },
+    {
+      "type": "node",
+      "id": 2590094292,
+      "lat": 51.0203672,
+      "lon": 3.7344932
+    },
+    {
+      "type": "node",
+      "id": 2590094293,
+      "lat": 51.0204022,
+      "lon": 3.7343577
+    },
+    {
+      "type": "node",
+      "id": 2590094294,
+      "lat": 51.0204204,
+      "lon": 3.7347099
+    },
+    {
+      "type": "node",
+      "id": 1952179138,
+      "lat": 51.0189557,
+      "lon": 3.7360976
+    },
+    {
+      "type": "node",
+      "id": 1952179139,
+      "lat": 51.0190527,
+      "lon": 3.7362155
+    },
+    {
+      "type": "node",
+      "id": 1952179140,
+      "lat": 51.0190704,
+      "lon": 3.7358116
+    },
+    {
+      "type": "node",
+      "id": 1952179141,
+      "lat": 51.0190848,
+      "lon": 3.735829
+    },
+    {
+      "type": "node",
+      "id": 1952179142,
+      "lat": 51.0191585,
+      "lon": 3.7359163
+    },
+    {
+      "type": "node",
+      "id": 1952179143,
+      "lat": 51.0191825,
+      "lon": 3.7359454
+    },
+    {
+      "type": "node",
+      "id": 1952179146,
+      "lat": 51.0192897,
+      "lon": 3.7356434
+    },
+    {
+      "type": "node",
+      "id": 1691892266,
+      "lat": 51.013432,
+      "lon": 3.755209
+    },
+    {
+      "type": "node",
+      "id": 1848278440,
+      "lat": 51.012463,
+      "lon": 3.7542716
+    },
+    {
+      "type": "node",
+      "id": 9152974929,
+      "lat": 51.0121223,
+      "lon": 3.7541035
+    },
+    {
+      "type": "node",
+      "id": 10162741084,
+      "lat": 51.0112373,
+      "lon": 3.7550998
+    },
+    {
+      "type": "node",
+      "id": 10162741085,
+      "lat": 51.0112353,
+      "lon": 3.7550936
+    },
+    {
+      "type": "node",
+      "id": 10162741086,
+      "lat": 51.0120574,
+      "lon": 3.7544974
+    },
+    {
+      "type": "node",
+      "id": 10162741087,
+      "lat": 51.0123149,
+      "lon": 3.7541916
+    },
+    {
+      "type": "node",
+      "id": 10162741088,
+      "lat": 51.0124615,
+      "lon": 3.7543445
+    },
+    {
+      "type": "node",
+      "id": 10162741089,
+      "lat": 51.0127929,
+      "lon": 3.754542
+    },
+    {
+      "type": "node",
+      "id": 10162741090,
+      "lat": 51.0127754,
+      "lon": 3.7545977
+    },
+    {
+      "type": "node",
+      "id": 10162741091,
+      "lat": 51.0132135,
+      "lon": 3.7549769
+    },
+    {
+      "type": "node",
+      "id": 10162742042,
+      "lat": 51.0113893,
+      "lon": 3.7549819
+    },
+    {
+      "type": "node",
+      "id": 10154163842,
+      "lat": 51.0120845,
+      "lon": 3.7576695
+    },
+    {
+      "type": "node",
+      "id": 10154163902,
+      "lat": 51.0120604,
+      "lon": 3.7577629
+    },
+    {
+      "type": "node",
+      "id": 10162741082,
+      "lat": 51.011044,
+      "lon": 3.7552897
+    },
+    {
+      "type": "node",
+      "id": 10162741083,
+      "lat": 51.0111753,
+      "lon": 3.7553729
+    },
+    {
+      "type": "node",
+      "id": 10162741092,
+      "lat": 51.0129346,
+      "lon": 3.7564651
+    },
+    {
+      "type": "node",
+      "id": 10162741093,
+      "lat": 51.0124444,
+      "lon": 3.7579492
+    },
+    {
+      "type": "node",
+      "id": 10162741094,
+      "lat": 51.0124082,
+      "lon": 3.7579258
+    },
+    {
+      "type": "node",
+      "id": 10162741095,
+      "lat": 51.0123935,
+      "lon": 3.7579864
+    },
+    {
+      "type": "node",
+      "id": 10162741096,
+      "lat": 51.0121646,
+      "lon": 3.7578321
+    },
+    {
+      "type": "node",
+      "id": 10162741097,
+      "lat": 51.012188,
+      "lon": 3.7577359
+    },
+    {
+      "type": "node",
+      "id": 10162741098,
+      "lat": 51.0107309,
+      "lon": 3.7568719
+    },
+    {
+      "type": "node",
+      "id": 10162742024,
+      "lat": 51.0124943,
+      "lon": 3.7577979
+    },
+    {
+      "type": "node",
+      "id": 10162742032,
+      "lat": 51.0117844,
+      "lon": 3.757578
+    },
+    {
+      "type": "node",
+      "id": 10162742033,
+      "lat": 51.0115921,
+      "lon": 3.7574491
+    },
+    {
+      "type": "node",
+      "id": 1039524496,
+      "lat": 51.0475246,
+      "lon": 3.6792312
+    },
+    {
+      "type": "node",
+      "id": 1039524662,
+      "lat": 51.0448089,
+      "lon": 3.6815584
+    },
+    {
+      "type": "node",
+      "id": 1039524807,
+      "lat": 51.0457263,
+      "lon": 3.6823274
+    },
+    {
+      "type": "node",
+      "id": 1039524904,
+      "lat": 51.0481206,
+      "lon": 3.6799495
+    },
+    {
+      "type": "node",
+      "id": 1039524982,
+      "lat": 51.0461703,
+      "lon": 3.6810059
+    },
+    {
+      "type": "node",
+      "id": 1039525212,
+      "lat": 51.0483498,
+      "lon": 3.6790939
+    },
+    {
+      "type": "node",
+      "id": 1039525394,
+      "lat": 51.0447108,
+      "lon": 3.6810588
+    },
+    {
+      "type": "node",
+      "id": 1039525535,
+      "lat": 51.0450859,
+      "lon": 3.681997
+    },
+    {
+      "type": "node",
+      "id": 1039525682,
+      "lat": 51.0477405,
+      "lon": 3.6806216
+    },
+    {
+      "type": "node",
+      "id": 1039526086,
+      "lat": 51.0488089,
+      "lon": 3.6789197
+    },
+    {
+      "type": "node",
+      "id": 1039526463,
+      "lat": 51.0445177,
+      "lon": 3.6800076
+    },
+    {
+      "type": "node",
+      "id": 1039526712,
+      "lat": 51.0449202,
+      "lon": 3.6817926
+    },
+    {
+      "type": "node",
+      "id": 1039526803,
+      "lat": 51.0475151,
+      "lon": 3.6805696
+    },
+    {
+      "type": "node",
+      "id": 1039526841,
+      "lat": 51.0458404,
+      "lon": 3.6822578
+    },
+    {
+      "type": "node",
+      "id": 1039526947,
+      "lat": 51.0492337,
+      "lon": 3.6806095
+    },
+    {
+      "type": "node",
+      "id": 1039739054,
+      "lat": 51.0488534,
+      "lon": 3.6821561
+    },
+    {
+      "type": "node",
+      "id": 1049937720,
+      "lat": 51.0491035,
+      "lon": 3.679776
+    },
+    {
+      "type": "node",
+      "id": 1049937852,
+      "lat": 51.048549,
+      "lon": 3.6801009
+    },
+    {
+      "type": "node",
+      "id": 2925704968,
+      "lat": 51.0460615,
+      "lon": 3.6811734
+    },
+    {
+      "type": "node",
+      "id": 2925704991,
+      "lat": 51.0465255,
+      "lon": 3.6808907
+    },
+    {
+      "type": "node",
+      "id": 2925704998,
+      "lat": 51.0467033,
+      "lon": 3.6808336
+    },
+    {
+      "type": "node",
+      "id": 2925705008,
+      "lat": 51.0476436,
+      "lon": 3.6805785
+    },
+    {
+      "type": "node",
+      "id": 2925705015,
+      "lat": 51.0479157,
+      "lon": 3.6802657
+    },
+    {
+      "type": "node",
+      "id": 2925705041,
+      "lat": 51.0485903,
+      "lon": 3.6825333
+    },
+    {
+      "type": "node",
+      "id": 2925705046,
+      "lat": 51.0486394,
+      "lon": 3.6822985
+    },
+    {
+      "type": "node",
+      "id": 2925705049,
+      "lat": 51.0486631,
+      "lon": 3.6822776
+    },
+    {
+      "type": "node",
+      "id": 2925705051,
+      "lat": 51.0486942,
+      "lon": 3.6823275
+    },
+    {
+      "type": "node",
+      "id": 2925705054,
+      "lat": 51.0487005,
+      "lon": 3.6822974
+    },
+    {
+      "type": "node",
+      "id": 2925705063,
+      "lat": 51.0487329,
+      "lon": 3.6826089
+    },
+    {
+      "type": "node",
+      "id": 2925705069,
+      "lat": 51.0487608,
+      "lon": 3.6823628
+    },
+    {
+      "type": "node",
+      "id": 2925705071,
+      "lat": 51.0487671,
+      "lon": 3.6823327
+    },
+    {
+      "type": "node",
+      "id": 2925705073,
+      "lat": 51.048782,
+      "lon": 3.682374
+    },
+    {
+      "type": "node",
+      "id": 2925705076,
+      "lat": 51.0488115,
+      "lon": 3.6823562
+    },
+    {
+      "type": "node",
+      "id": 2925705077,
+      "lat": 51.0488127,
+      "lon": 3.6815628
+    },
+    {
+      "type": "node",
+      "id": 2925705080,
+      "lat": 51.048841,
+      "lon": 3.68014
+    },
+    {
+      "type": "node",
+      "id": 2925705083,
+      "lat": 51.0488679,
+      "lon": 3.6820869
+    },
+    {
+      "type": "node",
+      "id": 2925705092,
+      "lat": 51.0489163,
+      "lon": 3.6821125
+    },
+    {
+      "type": "node",
+      "id": 2925705097,
+      "lat": 51.0489521,
+      "lon": 3.6819414
+    },
+    {
+      "type": "node",
+      "id": 2925705099,
+      "lat": 51.0489611,
+      "lon": 3.6816415
+    },
+    {
+      "type": "node",
+      "id": 2925705203,
+      "lat": 51.0489955,
+      "lon": 3.6800144
+    },
+    {
+      "type": "node",
+      "id": 2925705211,
+      "lat": 51.0490407,
+      "lon": 3.6819408
+    },
+    {
+      "type": "node",
+      "id": 2925705212,
+      "lat": 51.0490587,
+      "lon": 3.6797798
+    },
+    {
+      "type": "node",
+      "id": 2925705213,
+      "lat": 51.0490681,
+      "lon": 3.6818097
+    },
+    {
+      "type": "node",
+      "id": 2925705214,
+      "lat": 51.0490694,
+      "lon": 3.6820036
+    },
+    {
+      "type": "node",
+      "id": 2925705215,
+      "lat": 51.0490784,
+      "lon": 3.6819607
+    },
+    {
+      "type": "node",
+      "id": 2925705218,
+      "lat": 51.0491028,
+      "lon": 3.6820213
+    },
+    {
+      "type": "node",
+      "id": 2925705219,
+      "lat": 51.049111,
+      "lon": 3.6819823
+    },
+    {
+      "type": "node",
+      "id": 2925705221,
+      "lat": 51.0491272,
+      "lon": 3.67983
+    },
+    {
+      "type": "node",
+      "id": 2925705223,
+      "lat": 51.0491438,
+      "lon": 3.6819996
+    },
+    {
+      "type": "node",
+      "id": 2925705225,
+      "lat": 51.049172,
+      "lon": 3.6818647
+    },
+    {
+      "type": "node",
+      "id": 2925705229,
+      "lat": 51.049208,
+      "lon": 3.6803439
+    },
+    {
+      "type": "node",
+      "id": 3730713117,
+      "lat": 51.0461576,
+      "lon": 3.6796526
+    },
+    {
+      "type": "node",
+      "id": 3730713121,
+      "lat": 51.0468483,
+      "lon": 3.6794713
+    },
+    {
+      "type": "node",
+      "id": 5923868999,
+      "lat": 51.0490259,
+      "lon": 3.6822473
+    },
+    {
+      "type": "node",
+      "id": 5923869004,
+      "lat": 51.0486353,
+      "lon": 3.6825576
+    },
+    {
+      "type": "node",
+      "id": 5923869005,
+      "lat": 51.0486744,
+      "lon": 3.6825774
+    },
+    {
+      "type": "node",
+      "id": 5923869008,
+      "lat": 51.0489436,
+      "lon": 3.6822057
+    },
+    {
+      "type": "node",
+      "id": 1039524431,
+      "lat": 51.049577,
+      "lon": 3.6801591
+    },
+    {
+      "type": "node",
+      "id": 1039525108,
+      "lat": 51.0495078,
+      "lon": 3.6802892
+    },
+    {
+      "type": "node",
+      "id": 1039525343,
+      "lat": 51.0496592,
+      "lon": 3.6788622
+    },
+    {
+      "type": "node",
+      "id": 1039525995,
+      "lat": 51.0493931,
+      "lon": 3.680327
+    },
+    {
+      "type": "node",
+      "id": 1039526362,
+      "lat": 51.0496872,
+      "lon": 3.6790636
+    },
+    {
+      "type": "node",
+      "id": 1039526982,
+      "lat": 51.049546,
+      "lon": 3.6786412
+    },
+    {
+      "type": "node",
+      "id": 1039738707,
+      "lat": 51.0497446,
+      "lon": 3.6826282
+    },
+    {
+      "type": "node",
+      "id": 1049937794,
+      "lat": 51.0495465,
+      "lon": 3.6802377
+    },
+    {
+      "type": "node",
+      "id": 1049937889,
+      "lat": 51.0496885,
+      "lon": 3.6789682
+    },
+    {
+      "type": "node",
+      "id": 1049937953,
+      "lat": 51.0493064,
+      "lon": 3.6804547
+    },
+    {
+      "type": "node",
+      "id": 2925705236,
+      "lat": 51.0493914,
+      "lon": 3.6824411
+    },
+    {
+      "type": "node",
+      "id": 2925705238,
+      "lat": 51.049465,
+      "lon": 3.6822151
+    },
+    {
+      "type": "node",
+      "id": 2925705247,
+      "lat": 51.0497949,
+      "lon": 3.6823879
+    },
+    {
+      "type": "node",
+      "id": 1802829659,
+      "lat": 51.0374259,
+      "lon": 3.714787
+    },
+    {
+      "type": "node",
+      "id": 1802829676,
+      "lat": 51.0372199,
+      "lon": 3.7145724
+    },
+    {
+      "type": "node",
+      "id": 1802829677,
+      "lat": 51.0372686,
+      "lon": 3.7146241
+    },
+    {
+      "type": "node",
+      "id": 1802829685,
+      "lat": 51.0374094,
+      "lon": 3.7148203
+    },
+    {
+      "type": "node",
+      "id": 1802829687,
+      "lat": 51.0373196,
+      "lon": 3.71448
+    },
+    {
+      "type": "node",
+      "id": 1802829688,
+      "lat": 51.0372479,
+      "lon": 3.7147498
+    },
+    {
+      "type": "node",
+      "id": 4698102968,
+      "lat": 51.0372628,
+      "lon": 3.7146181
+    },
+    {
+      "type": "node",
+      "id": 4698102969,
+      "lat": 51.0372582,
+      "lon": 3.7146228
+    },
+    {
+      "type": "node",
+      "id": 7936464381,
+      "lat": 51.0684128,
+      "lon": 3.7009079
+    },
+    {
+      "type": "node",
+      "id": 7936464382,
+      "lat": 51.0684858,
+      "lon": 3.7007425
+    },
+    {
+      "type": "node",
+      "id": 7936464383,
+      "lat": 51.0684732,
+      "lon": 3.7006633
+    },
+    {
+      "type": "node",
+      "id": 7936464384,
+      "lat": 51.0684557,
+      "lon": 3.7007103
+    },
+    {
+      "type": "node",
+      "id": 9634022079,
+      "lat": 51.0683153,
+      "lon": 3.7008031
+    },
+    {
+      "type": "node",
+      "id": 9634045830,
+      "lat": 51.0684069,
+      "lon": 3.7005909
+    },
+    {
+      "type": "node",
+      "id": 3958698804,
+      "lat": 51.0538989,
+      "lon": 3.7350412
+    },
+    {
+      "type": "node",
+      "id": 3958698805,
+      "lat": 51.0539082,
+      "lon": 3.7351205
+    },
+    {
+      "type": "node",
+      "id": 3958698806,
+      "lat": 51.0542319,
+      "lon": 3.7349432
+    },
+    {
+      "type": "node",
+      "id": 3958698807,
+      "lat": 51.0542411,
+      "lon": 3.7350225
+    },
+    {
+      "type": "node",
+      "id": 7702617662,
+      "lat": 51.0406447,
+      "lon": 3.7724247
+    },
+    {
+      "type": "node",
+      "id": 7702617664,
+      "lat": 51.0408016,
+      "lon": 3.7726415
+    },
+    {
+      "type": "node",
+      "id": 7702617665,
+      "lat": 51.0407517,
+      "lon": 3.7726917
+    },
+    {
+      "type": "node",
+      "id": 7702617666,
+      "lat": 51.0408261,
+      "lon": 3.772468
+    },
+    {
+      "type": "node",
+      "id": 7702617667,
+      "lat": 51.0407606,
+      "lon": 3.7725347
+    },
+    {
+      "type": "node",
+      "id": 7702617668,
+      "lat": 51.0407571,
+      "lon": 3.7724426
+    },
+    {
+      "type": "node",
+      "id": 7702617669,
+      "lat": 51.0407995,
+      "lon": 3.7723989
+    },
+    {
+      "type": "node",
+      "id": 7702617670,
+      "lat": 51.0407166,
+      "lon": 3.7724258
+    },
+    {
+      "type": "node",
+      "id": 7702617671,
+      "lat": 51.0407416,
+      "lon": 3.7724025
+    },
+    {
+      "type": "node",
+      "id": 7702617672,
+      "lat": 51.0406964,
+      "lon": 3.7723724
+    },
+    {
+      "type": "node",
+      "id": 7702617673,
+      "lat": 51.0407074,
+      "lon": 3.7724017
+    },
+    {
+      "type": "node",
+      "id": 7427544491,
+      "lat": 51.059274,
+      "lon": 3.7388791
+    },
+    {
+      "type": "node",
+      "id": 7427544492,
+      "lat": 51.0595027,
+      "lon": 3.7387819
+    },
+    {
+      "type": "node",
+      "id": 7427544493,
+      "lat": 51.0594875,
+      "lon": 3.7386834
+    },
+    {
+      "type": "node",
+      "id": 7427544494,
+      "lat": 51.0595903,
+      "lon": 3.7386394
+    },
+    {
+      "type": "node",
+      "id": 7427544495,
+      "lat": 51.0596351,
+      "lon": 3.7389001
+    },
+    {
+      "type": "node",
+      "id": 7427544497,
+      "lat": 51.0593034,
+      "lon": 3.7390424
+    },
+    {
+      "type": "node",
+      "id": 4078411724,
+      "lat": 51.073581,
+      "lon": 3.7453413
+    },
+    {
+      "type": "node",
+      "id": 4078411725,
+      "lat": 51.0736495,
+      "lon": 3.7454788
+    },
+    {
+      "type": "node",
+      "id": 4078411726,
+      "lat": 51.0736254,
+      "lon": 3.7453292
+    },
+    {
+      "type": "node",
+      "id": 4078411727,
+      "lat": 51.0735786,
+      "lon": 3.7453261
+    },
+    {
+      "type": "node",
+      "id": 6631266186,
+      "lat": 51.073544,
+      "lon": 3.7453402
+    },
+    {
+      "type": "node",
+      "id": 6631266187,
+      "lat": 51.0735727,
+      "lon": 3.7455157
+    },
+    {
+      "type": "node",
+      "id": 9845272986,
+      "lat": 51.0736035,
+      "lon": 3.7453319
+    },
+    {
+      "type": "node",
+      "id": 9845272987,
+      "lat": 51.07363,
+      "lon": 3.7454863
+    },
+    {
+      "type": "node",
+      "id": 9845272988,
+      "lat": 51.0736312,
+      "lon": 3.7454926
+    },
+    {
+      "type": "node",
+      "id": 3244592358,
+      "lat": 51.0761005,
+      "lon": 3.7445497
+    },
+    {
+      "type": "node",
+      "id": 3244592359,
+      "lat": 51.0760935,
+      "lon": 3.7444536
+    },
+    {
+      "type": "node",
+      "id": 3244592360,
+      "lat": 51.0760022,
+      "lon": 3.7444704
+    },
+    {
+      "type": "node",
+      "id": 3244595061,
+      "lat": 51.0759899,
+      "lon": 3.7443007
+    },
+    {
+      "type": "node",
+      "id": 3244595062,
+      "lat": 51.0760909,
+      "lon": 3.7442821
+    },
+    {
+      "type": "node",
+      "id": 3244595063,
+      "lat": 51.0760808,
+      "lon": 3.7441432
+    },
+    {
+      "type": "node",
+      "id": 3244595064,
+      "lat": 51.0759803,
+      "lon": 3.7441617
+    },
+    {
+      "type": "node",
+      "id": 3244595065,
+      "lat": 51.0759737,
+      "lon": 3.744072
+    },
+    {
+      "type": "node",
+      "id": 3244595066,
+      "lat": 51.0758976,
+      "lon": 3.744086
+    },
+    {
+      "type": "node",
+      "id": 3244595067,
+      "lat": 51.0759044,
+      "lon": 3.7441801
+    },
+    {
+      "type": "node",
+      "id": 3244595068,
+      "lat": 51.0757849,
+      "lon": 3.7442021
+    },
+    {
+      "type": "node",
+      "id": 3244595069,
+      "lat": 51.0757957,
+      "lon": 3.744351
+    },
+    {
+      "type": "node",
+      "id": 3244595070,
+      "lat": 51.0759104,
+      "lon": 3.7443299
+    },
+    {
+      "type": "node",
+      "id": 3244595071,
+      "lat": 51.0759201,
+      "lon": 3.7444642
+    },
+    {
+      "type": "node",
+      "id": 3244595072,
+      "lat": 51.0759662,
+      "lon": 3.7444557
+    },
+    {
+      "type": "node",
+      "id": 3244595073,
+      "lat": 51.0759747,
+      "lon": 3.7445729
+    }
+  ]
+}
